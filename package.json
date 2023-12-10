@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Mariemsaffar/express-sqlite.git"
   },
-  "author": "",
+  "author": "mariem",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mariemsaffar/express-sqlite/issues"
